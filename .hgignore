@@ -1,0 +1,7 @@
+syntax: regexp
+.*~$
+^deps.mk$
+^erlang-smtp-git/
+^ebin
+^dist
+^deps

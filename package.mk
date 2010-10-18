@@ -2,7 +2,6 @@ APP_NAME:=erlang_smtp
 
 UPSTREAM_GIT:=http://github.com/tonyg/erlang-smtp.git
 
-EBIN_DIR:=$(PACKAGE_DIR)/ebin
 CHECKOUT_DIR:=$(PACKAGE_DIR)/erlang-smtp-git
 SOURCE_DIR:=$(CHECKOUT_DIR)/src
 INCLUDE_DIR:=$(CHECKOUT_DIR)/include

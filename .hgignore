@@ -1,7 +1,6 @@
-syntax: regexp
-.*~$
-^deps.mk$
+~$
+\.beam$
+^build/
+^dist/
+^cover/
 ^erlang-smtp-git/
-^ebin
-^dist
-^deps
